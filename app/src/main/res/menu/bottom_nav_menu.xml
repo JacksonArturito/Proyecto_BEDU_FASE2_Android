@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/amarilloCanario"
+    >
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_person"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/title_persone" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        android:title="@string/title_favorite" />
+    <item
+        android:id="@+id/navigation_buyed"
+        android:icon="@drawable/ic_baseline_local_mall_black_24"
+        android:title="@string/title_buyed" />
+    <item
+        android:id="@+id/navigation_catalogo"
+        android:icon="@drawable/ic_catalogo_black_24"
+        android:title="@string/title_catalogo" />
+
+</menu>

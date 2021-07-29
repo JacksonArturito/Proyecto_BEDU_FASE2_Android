@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Amigos Cool</string>
+    <string name="title_activity_welcome">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_persone">Mis Datos</string>
+    <string name="title_favorite">Mis Favoritos</string>
+    <string name="title_buyed">Carrito</string>
+    <string name="title_catalogo">Catalogo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_buyeds_fragment">BuyedsFragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

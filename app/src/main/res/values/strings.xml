@@ -31,5 +31,153 @@
 
     <string name="tigerDescription">Blanca con un pequeño tigre amante del Surf</string>
 
+    <!-- ARTURO -->
 
+
+        <string name="description3">
+
+description3
+</string>
+
+        <string name="name3">
+
+name3
+</string>
+
+        <string name="description2">
+
+description2
+</string>
+
+
+        <string name="name2">
+
+name2
+</string>
+
+        <string name="continuarbuton">
+Continuar
+
+</string>
+        <string name="name1">
+
+name1
+</string>
+
+        <string name="Head">
+
+Selecciona un método de pago
+</string>
+
+
+        <string name="registrarse">
+
+        Registrarse
+    </string>
+        <string name="agregar_una">
+
+        Agregar una nueva tarjeta
+    </string>
+
+        <string name="pago_en_oxx">
+
+        Pago en  Oxxo
+    </string>
+
+        <string name="selecciona_">
+
+       Metodo de pago
+    </string>
+
+        <string name="continuar">
+
+        Continuar
+    </string>
+
+        <!-- styles.xml -->
+        <style name="mastercard_">
+
+            <item name="android:textSize">
+                24sp
+            </item>
+
+            <item name="android:textColor">
+                #000000
+            </item>
+
+        </style>
+        <!-- strings.xml -->
+        <string name="mastercard_">
+
+        Mastercard ****2345
+    </string>
+
+
+        <!-- strings.xml -->
+        <string name="regina_bern">
+
+        Regina Bernal
+    </string>
+        <!-- strings.xml -->
+        <string name="vence_el_10">
+
+        Vence el 10/2025
+    </string>
+        <string name="btcontinuar">
+
+        Continuar
+    </string>
+
+        <string name="ppuntos">
+
+    Pago con puntos
+     </string>
+
+        <string name="addcard">
+
+    Agregar tarjeta
+     </string>
+
+        <string name="addpoints">
+
+    Agregar puntos a tu cuenta
+     </string>
+
+        <string name="otzo">
+
+   Pago en Oxxo
+     </string>
+        <string name="newinfocard">
+
+   Introduce info de la card we
+     </string>
+
+        <string name="namecard">
+
+   Nombre en la tarjeta
+     </string>
+        <string name="numcard">
+
+   Numero en la tarjeta
+     </string>
+
+        <string name="fechadevenci">
+
+   Fecha de vencimiento
+     </string>
+
+        <string name="month">
+
+   01
+     </string>
+
+        <string name="year">
+
+   2021
+     </string>
+
+        <string name="add">
+
+   Agregar
+     </string>
 </resources>

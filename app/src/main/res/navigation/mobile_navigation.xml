@@ -24,12 +24,12 @@
         tools:layout="@layout/fragment_favorite" />
     <fragment
         android:id="@+id/navigation_buyed"
-        android:name="com.example.proyects.ui.favorite.FavoritesFragment"
+        android:name="com.example.proyects.ui.buyed.BuyedsFragment"
         android:label="@string/title_buyed"
         tools:layout="@layout/fragment_buyed" />
     <fragment
         android:id="@+id/navigation_catalogo"
-        android:name="com.example.proyects.ui.favorite.FavoritesFragment"
+        android:name="com.example.proyects.ui.catalogo.CatalogoFragment"
         android:label="@string/title_catalogo"
         tools:layout="@layout/fragment_catalogo" />
 </navigation>

@@ -36,7 +36,7 @@ class WelcomeActivity : AppCompatActivity() {
         text = findViewById(R.id.textView)
         val bundle = intent.extras
         val name = bundle?.getString(USER_NAME)
-        text.text = "Bienvenido ${name}"
+        text.text = "Hola ${name}"
 
     }
 }

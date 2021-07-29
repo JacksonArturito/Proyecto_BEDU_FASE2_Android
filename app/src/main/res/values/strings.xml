@@ -180,4 +180,10 @@ Selecciona un método de pago
 
    Agregar
      </string>
+    <string name="name">Nombre</string>
+    <string name="lastName">Apellido(s)</string>
+    <string name="email">Correo electronico</string>
+    <string name="numberPhone">Numero Telefónico</string>
+    <string name="passw">Contraseña</string>
+    <string name="register">Registrarse</string>
 </resources>
